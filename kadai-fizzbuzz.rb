@@ -18,6 +18,3 @@ puts fizzbuzz(1)
 puts fizzbuzz(3)
 puts fizzbuzz(5)
 puts fizzbuzz(15)
-
-  
-  
